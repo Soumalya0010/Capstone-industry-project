@@ -1,0 +1,801 @@
+restaurant_id,state,treatment,post,fte,chain
+NJ_001,NJ,1,0,40.0,Wendy's
+NJ_001,NJ,1,1,43.9,Wendy's
+NJ_002,NJ,1,0,33.6,Burger King
+NJ_002,NJ,1,1,33.7,Burger King
+NJ_003,NJ,1,0,16.6,Roy Rogers
+NJ_003,NJ,1,1,14.8,Roy Rogers
+NJ_004,NJ,1,0,7.6,Wendy's
+NJ_004,NJ,1,1,7.8,Wendy's
+NJ_005,NJ,1,0,26.3,Roy Rogers
+NJ_005,NJ,1,1,29.3,Roy Rogers
+NJ_006,NJ,1,0,18.2,Burger King
+NJ_006,NJ,1,1,18.9,Burger King
+NJ_007,NJ,1,0,29.5,Roy Rogers
+NJ_007,NJ,1,1,26.1,Roy Rogers
+NJ_008,NJ,1,0,34.3,Wendy's
+NJ_008,NJ,1,1,35.2,Wendy's
+NJ_009,NJ,1,0,15.4,Roy Rogers
+NJ_009,NJ,1,1,12.6,Roy Rogers
+NJ_010,NJ,1,0,24.7,KFC
+NJ_010,NJ,1,1,24.7,KFC
+NJ_011,NJ,1,0,14.8,KFC
+NJ_011,NJ,1,1,21.6,KFC
+NJ_012,NJ,1,0,29.2,KFC
+NJ_012,NJ,1,1,34.1,KFC
+NJ_013,NJ,1,0,12.1,KFC
+NJ_013,NJ,1,1,11.1,KFC
+NJ_014,NJ,1,0,27.7,Wendy's
+NJ_014,NJ,1,1,28.7,Wendy's
+NJ_015,NJ,1,0,23.2,Wendy's
+NJ_015,NJ,1,1,27.0,Wendy's
+NJ_016,NJ,1,0,7.9,KFC
+NJ_016,NJ,1,1,6.0,KFC
+NJ_017,NJ,1,0,8.9,Burger King
+NJ_017,NJ,1,1,19.5,Burger King
+NJ_018,NJ,1,0,18.8,Roy Rogers
+NJ_018,NJ,1,1,14.0,Roy Rogers
+NJ_019,NJ,1,0,14.9,Burger King
+NJ_019,NJ,1,1,16.8,Burger King
+NJ_020,NJ,1,0,5.0,KFC
+NJ_020,NJ,1,1,4.6,KFC
+NJ_021,NJ,1,0,5.6,Burger King
+NJ_021,NJ,1,1,6.5,Burger King
+NJ_022,NJ,1,0,9.1,Burger King
+NJ_022,NJ,1,1,10.8,Burger King
+NJ_023,NJ,1,0,25.5,Wendy's
+NJ_023,NJ,1,1,26.4,Wendy's
+NJ_024,NJ,1,0,19.1,Wendy's
+NJ_024,NJ,1,1,15.5,Wendy's
+NJ_025,NJ,1,0,11.7,Burger King
+NJ_025,NJ,1,1,10.6,Burger King
+NJ_026,NJ,1,0,15.7,Wendy's
+NJ_026,NJ,1,1,9.8,Wendy's
+NJ_027,NJ,1,0,28.0,KFC
+NJ_027,NJ,1,1,26.8,KFC
+NJ_028,NJ,1,0,32.8,KFC
+NJ_028,NJ,1,1,34.0,KFC
+NJ_029,NJ,1,0,7.7,KFC
+NJ_029,NJ,1,1,10.4,KFC
+NJ_030,NJ,1,0,14.6,Wendy's
+NJ_030,NJ,1,1,12.4,Wendy's
+NJ_031,NJ,1,0,23.8,Roy Rogers
+NJ_031,NJ,1,1,24.6,Roy Rogers
+NJ_032,NJ,1,0,17.3,Wendy's
+NJ_032,NJ,1,1,16.1,Wendy's
+NJ_033,NJ,1,0,30.6,Roy Rogers
+NJ_033,NJ,1,1,32.7,Roy Rogers
+NJ_034,NJ,1,0,10.8,Burger King
+NJ_034,NJ,1,1,10.3,Burger King
+NJ_035,NJ,1,0,16.0,Roy Rogers
+NJ_035,NJ,1,1,18.2,Roy Rogers
+NJ_036,NJ,1,0,21.9,Roy Rogers
+NJ_036,NJ,1,1,21.9,Roy Rogers
+NJ_037,NJ,1,0,20.0,KFC
+NJ_037,NJ,1,1,24.0,KFC
+NJ_038,NJ,1,0,17.0,Burger King
+NJ_038,NJ,1,1,21.9,Burger King
+NJ_039,NJ,1,0,22.2,Roy Rogers
+NJ_039,NJ,1,1,16.9,Roy Rogers
+NJ_040,NJ,1,0,25.8,Roy Rogers
+NJ_040,NJ,1,1,26.2,Roy Rogers
+NJ_041,NJ,1,0,15.5,Roy Rogers
+NJ_041,NJ,1,1,14.0,Roy Rogers
+NJ_042,NJ,1,0,19.1,Roy Rogers
+NJ_042,NJ,1,1,21.2,Roy Rogers
+NJ_043,NJ,1,0,9.6,Burger King
+NJ_043,NJ,1,1,5.8,Burger King
+NJ_044,NJ,1,0,12.4,Burger King
+NJ_044,NJ,1,1,11.0,Burger King
+NJ_045,NJ,1,0,12.5,Roy Rogers
+NJ_045,NJ,1,1,14.8,Roy Rogers
+NJ_046,NJ,1,0,20.6,KFC
+NJ_046,NJ,1,1,22.3,KFC
+NJ_047,NJ,1,0,19.2,KFC
+NJ_047,NJ,1,1,19.0,KFC
+NJ_048,NJ,1,0,29.7,Burger King
+NJ_048,NJ,1,1,27.0,Burger King
+NJ_049,NJ,1,0,12.7,Wendy's
+NJ_049,NJ,1,1,13.8,Wendy's
+NJ_050,NJ,1,0,15.0,Roy Rogers
+NJ_050,NJ,1,1,18.5,Roy Rogers
+NJ_051,NJ,1,0,14.8,KFC
+NJ_051,NJ,1,1,14.0,KFC
+NJ_052,NJ,1,0,43.9,Roy Rogers
+NJ_052,NJ,1,1,45.4,Roy Rogers
+NJ_053,NJ,1,0,28.4,KFC
+NJ_053,NJ,1,1,27.8,KFC
+NJ_054,NJ,1,0,12.8,KFC
+NJ_054,NJ,1,1,10.4,KFC
+NJ_055,NJ,1,0,12.3,Burger King
+NJ_055,NJ,1,1,9.5,Burger King
+NJ_056,NJ,1,0,9.4,KFC
+NJ_056,NJ,1,1,11.6,KFC
+NJ_057,NJ,1,0,25.7,KFC
+NJ_057,NJ,1,1,29.2,KFC
+NJ_058,NJ,1,0,35.2,Roy Rogers
+NJ_058,NJ,1,1,30.6,Roy Rogers
+NJ_059,NJ,1,0,24.0,Wendy's
+NJ_059,NJ,1,1,23.5,Wendy's
+NJ_060,NJ,1,0,18.6,KFC
+NJ_060,NJ,1,1,19.4,KFC
+NJ_061,NJ,1,0,12.1,Wendy's
+NJ_061,NJ,1,1,7.8,Wendy's
+NJ_062,NJ,1,0,29.6,Roy Rogers
+NJ_062,NJ,1,1,31.1,Roy Rogers
+NJ_063,NJ,1,0,16.9,Burger King
+NJ_063,NJ,1,1,16.7,Burger King
+NJ_064,NJ,1,0,27.2,Roy Rogers
+NJ_064,NJ,1,1,24.9,Roy Rogers
+NJ_065,NJ,1,0,34.7,Roy Rogers
+NJ_065,NJ,1,1,38.7,Roy Rogers
+NJ_066,NJ,1,0,11.7,Wendy's
+NJ_066,NJ,1,1,12.2,Wendy's
+NJ_067,NJ,1,0,31.7,Wendy's
+NJ_067,NJ,1,1,31.9,Wendy's
+NJ_068,NJ,1,0,21.7,KFC
+NJ_068,NJ,1,1,24.5,KFC
+NJ_069,NJ,1,0,23.3,Wendy's
+NJ_069,NJ,1,1,22.3,Wendy's
+NJ_070,NJ,1,0,28.6,Burger King
+NJ_070,NJ,1,1,26.2,Burger King
+NJ_071,NJ,1,0,5.0,Roy Rogers
+NJ_071,NJ,1,1,2.4,Roy Rogers
+NJ_072,NJ,1,0,26.2,Wendy's
+NJ_072,NJ,1,1,19.0,Wendy's
+NJ_073,NJ,1,0,22.3,Burger King
+NJ_073,NJ,1,1,27.5,Burger King
+NJ_074,NJ,1,0,27.5,Burger King
+NJ_074,NJ,1,1,32.7,Burger King
+NJ_075,NJ,1,0,22.1,Roy Rogers
+NJ_075,NJ,1,1,17.2,Roy Rogers
+NJ_076,NJ,1,0,16.1,KFC
+NJ_076,NJ,1,1,17.4,KFC
+NJ_077,NJ,1,0,16.5,Burger King
+NJ_077,NJ,1,1,13.1,Burger King
+NJ_078,NJ,1,0,17.3,Wendy's
+NJ_078,NJ,1,1,11.5,Wendy's
+NJ_079,NJ,1,0,25.5,Burger King
+NJ_079,NJ,1,1,22.9,Burger King
+NJ_080,NJ,1,0,33.9,Wendy's
+NJ_080,NJ,1,1,35.8,Wendy's
+NJ_081,NJ,1,0,7.2,Wendy's
+NJ_081,NJ,1,1,4.9,Wendy's
+NJ_082,NJ,1,0,12.1,Roy Rogers
+NJ_082,NJ,1,1,9.3,Roy Rogers
+NJ_083,NJ,1,0,15.5,Burger King
+NJ_083,NJ,1,1,21.7,Burger King
+NJ_084,NJ,1,0,5.0,Wendy's
+NJ_084,NJ,1,1,5.9,Wendy's
+NJ_085,NJ,1,0,10.5,Wendy's
+NJ_085,NJ,1,1,12.6,Wendy's
+NJ_086,NJ,1,0,14.7,Roy Rogers
+NJ_086,NJ,1,1,17.6,Roy Rogers
+NJ_087,NJ,1,0,21.9,Roy Rogers
+NJ_087,NJ,1,1,19.5,Roy Rogers
+NJ_088,NJ,1,0,22.8,Roy Rogers
+NJ_088,NJ,1,1,26.0,Roy Rogers
+NJ_089,NJ,1,0,13.4,Wendy's
+NJ_089,NJ,1,1,10.9,Wendy's
+NJ_090,NJ,1,0,37.6,Wendy's
+NJ_090,NJ,1,1,38.4,Wendy's
+NJ_091,NJ,1,0,16.5,Roy Rogers
+NJ_091,NJ,1,1,15.2,Roy Rogers
+NJ_092,NJ,1,0,23.9,Wendy's
+NJ_092,NJ,1,1,24.8,Wendy's
+NJ_093,NJ,1,0,21.8,Roy Rogers
+NJ_093,NJ,1,1,21.2,Roy Rogers
+NJ_094,NJ,1,0,24.1,Roy Rogers
+NJ_094,NJ,1,1,24.9,Roy Rogers
+NJ_095,NJ,1,0,28.8,Wendy's
+NJ_095,NJ,1,1,31.1,Wendy's
+NJ_096,NJ,1,0,19.7,Roy Rogers
+NJ_096,NJ,1,1,17.8,Roy Rogers
+NJ_097,NJ,1,0,27.7,Wendy's
+NJ_097,NJ,1,1,30.5,Wendy's
+NJ_098,NJ,1,0,26.9,Roy Rogers
+NJ_098,NJ,1,1,26.2,Roy Rogers
+NJ_099,NJ,1,0,25.7,Roy Rogers
+NJ_099,NJ,1,1,26.5,Roy Rogers
+NJ_100,NJ,1,0,22.3,KFC
+NJ_100,NJ,1,1,19.6,KFC
+NJ_101,NJ,1,0,11.0,KFC
+NJ_101,NJ,1,1,10.9,KFC
+NJ_102,NJ,1,0,12.8,Roy Rogers
+NJ_102,NJ,1,1,15.8,Roy Rogers
+NJ_103,NJ,1,0,5.3,KFC
+NJ_103,NJ,1,1,6.4,KFC
+NJ_104,NJ,1,0,29.3,Roy Rogers
+NJ_104,NJ,1,1,29.6,Roy Rogers
+NJ_105,NJ,1,0,20.9,KFC
+NJ_105,NJ,1,1,27.4,KFC
+NJ_106,NJ,1,0,29.8,KFC
+NJ_106,NJ,1,1,28.0,KFC
+NJ_107,NJ,1,0,9.5,Burger King
+NJ_107,NJ,1,1,16.0,Burger King
+NJ_108,NJ,1,0,20.6,Roy Rogers
+NJ_108,NJ,1,1,23.0,Roy Rogers
+NJ_109,NJ,1,0,15.0,Roy Rogers
+NJ_109,NJ,1,1,21.8,Roy Rogers
+NJ_110,NJ,1,0,13.0,Wendy's
+NJ_110,NJ,1,1,10.6,Wendy's
+NJ_111,NJ,1,0,13.1,Wendy's
+NJ_111,NJ,1,1,11.5,Wendy's
+NJ_112,NJ,1,0,44.2,Wendy's
+NJ_112,NJ,1,1,48.2,Wendy's
+NJ_113,NJ,1,0,27.6,Roy Rogers
+NJ_113,NJ,1,1,26.0,Roy Rogers
+NJ_114,NJ,1,0,15.1,Roy Rogers
+NJ_114,NJ,1,1,14.7,Roy Rogers
+NJ_115,NJ,1,0,10.8,Roy Rogers
+NJ_115,NJ,1,1,19.5,Roy Rogers
+NJ_116,NJ,1,0,15.7,Burger King
+NJ_116,NJ,1,1,9.0,Burger King
+NJ_117,NJ,1,0,34.5,Burger King
+NJ_117,NJ,1,1,34.9,Burger King
+NJ_118,NJ,1,0,14.5,Wendy's
+NJ_118,NJ,1,1,11.0,Wendy's
+NJ_119,NJ,1,0,10.3,Burger King
+NJ_119,NJ,1,1,14.1,Burger King
+NJ_120,NJ,1,0,10.6,KFC
+NJ_120,NJ,1,1,8.9,KFC
+NJ_121,NJ,1,0,29.2,KFC
+NJ_121,NJ,1,1,28.8,KFC
+NJ_122,NJ,1,0,12.1,Wendy's
+NJ_122,NJ,1,1,17.0,Wendy's
+NJ_123,NJ,1,0,31.4,Burger King
+NJ_123,NJ,1,1,29.2,Burger King
+NJ_124,NJ,1,0,21.7,KFC
+NJ_124,NJ,1,1,21.8,KFC
+NJ_125,NJ,1,0,27.8,Roy Rogers
+NJ_125,NJ,1,1,24.3,Roy Rogers
+NJ_126,NJ,1,0,32.1,KFC
+NJ_126,NJ,1,1,26.5,KFC
+NJ_127,NJ,1,0,15.1,Wendy's
+NJ_127,NJ,1,1,9.1,Wendy's
+NJ_128,NJ,1,0,26.9,Roy Rogers
+NJ_128,NJ,1,1,20.1,Roy Rogers
+NJ_129,NJ,1,0,20.1,Roy Rogers
+NJ_129,NJ,1,1,13.7,Roy Rogers
+NJ_130,NJ,1,0,23.0,KFC
+NJ_130,NJ,1,1,19.7,KFC
+NJ_131,NJ,1,0,40.7,Wendy's
+NJ_131,NJ,1,1,42.6,Wendy's
+NJ_132,NJ,1,0,20.0,KFC
+NJ_132,NJ,1,1,17.2,KFC
+NJ_133,NJ,1,0,28.7,KFC
+NJ_133,NJ,1,1,26.6,KFC
+NJ_134,NJ,1,0,35.7,Wendy's
+NJ_134,NJ,1,1,36.9,Wendy's
+NJ_135,NJ,1,0,15.4,Burger King
+NJ_135,NJ,1,1,17.5,Burger King
+NJ_136,NJ,1,0,12.9,Burger King
+NJ_136,NJ,1,1,15.3,Burger King
+NJ_137,NJ,1,0,19.1,KFC
+NJ_137,NJ,1,1,20.8,KFC
+NJ_138,NJ,1,0,12.4,Burger King
+NJ_138,NJ,1,1,16.8,Burger King
+NJ_139,NJ,1,0,16.5,Roy Rogers
+NJ_139,NJ,1,1,18.6,Roy Rogers
+NJ_140,NJ,1,0,16.7,Wendy's
+NJ_140,NJ,1,1,15.2,Wendy's
+NJ_141,NJ,1,0,18.8,Burger King
+NJ_141,NJ,1,1,25.8,Burger King
+NJ_142,NJ,1,0,12.2,Wendy's
+NJ_142,NJ,1,1,18.9,Wendy's
+NJ_143,NJ,1,0,22.6,Burger King
+NJ_143,NJ,1,1,19.4,Burger King
+NJ_144,NJ,1,0,16.6,KFC
+NJ_144,NJ,1,1,18.2,KFC
+NJ_145,NJ,1,0,17.9,KFC
+NJ_145,NJ,1,1,17.2,KFC
+NJ_146,NJ,1,0,25.8,Wendy's
+NJ_146,NJ,1,1,29.4,Wendy's
+NJ_147,NJ,1,0,23.0,Wendy's
+NJ_147,NJ,1,1,26.0,Wendy's
+NJ_148,NJ,1,0,30.2,Roy Rogers
+NJ_148,NJ,1,1,23.7,Roy Rogers
+NJ_149,NJ,1,0,31.0,KFC
+NJ_149,NJ,1,1,35.8,KFC
+NJ_150,NJ,1,0,17.2,KFC
+NJ_150,NJ,1,1,19.4,KFC
+NJ_151,NJ,1,0,21.7,Roy Rogers
+NJ_151,NJ,1,1,25.3,Roy Rogers
+NJ_152,NJ,1,0,23.3,Roy Rogers
+NJ_152,NJ,1,1,27.7,Roy Rogers
+NJ_153,NJ,1,0,15.4,Roy Rogers
+NJ_153,NJ,1,1,16.1,Roy Rogers
+NJ_154,NJ,1,0,12.3,Roy Rogers
+NJ_154,NJ,1,1,14.1,Roy Rogers
+NJ_155,NJ,1,0,26.9,Burger King
+NJ_155,NJ,1,1,28.2,Burger King
+NJ_156,NJ,1,0,30.2,Wendy's
+NJ_156,NJ,1,1,31.2,Wendy's
+NJ_157,NJ,1,0,13.5,KFC
+NJ_157,NJ,1,1,12.1,KFC
+NJ_158,NJ,1,0,22.5,Roy Rogers
+NJ_158,NJ,1,1,22.5,Roy Rogers
+NJ_159,NJ,1,0,15.0,Roy Rogers
+NJ_159,NJ,1,1,14.4,Roy Rogers
+NJ_160,NJ,1,0,15.6,Wendy's
+NJ_160,NJ,1,1,23.1,Wendy's
+NJ_161,NJ,1,0,17.2,Roy Rogers
+NJ_161,NJ,1,1,15.8,Roy Rogers
+NJ_162,NJ,1,0,26.8,KFC
+NJ_162,NJ,1,1,27.7,KFC
+NJ_163,NJ,1,0,24.2,Wendy's
+NJ_163,NJ,1,1,24.6,Wendy's
+NJ_164,NJ,1,0,28.1,Burger King
+NJ_164,NJ,1,1,30.5,Burger King
+NJ_165,NJ,1,0,21.1,Roy Rogers
+NJ_165,NJ,1,1,22.0,Roy Rogers
+NJ_166,NJ,1,0,8.7,Burger King
+NJ_166,NJ,1,1,14.6,Burger King
+NJ_167,NJ,1,0,31.1,Burger King
+NJ_167,NJ,1,1,32.8,Burger King
+NJ_168,NJ,1,0,28.1,Burger King
+NJ_168,NJ,1,1,32.0,Burger King
+NJ_169,NJ,1,0,5.0,Wendy's
+NJ_169,NJ,1,1,5.4,Wendy's
+NJ_170,NJ,1,0,18.1,KFC
+NJ_170,NJ,1,1,11.5,KFC
+NJ_171,NJ,1,0,19.5,Burger King
+NJ_171,NJ,1,1,17.6,Burger King
+NJ_172,NJ,1,0,25.4,Wendy's
+NJ_172,NJ,1,1,28.9,Wendy's
+NJ_173,NJ,1,0,27.8,KFC
+NJ_173,NJ,1,1,30.8,KFC
+NJ_174,NJ,1,0,24.6,Wendy's
+NJ_174,NJ,1,1,28.5,Wendy's
+NJ_175,NJ,1,0,19.8,Burger King
+NJ_175,NJ,1,1,23.1,Burger King
+NJ_176,NJ,1,0,9.5,Wendy's
+NJ_176,NJ,1,1,10.2,Wendy's
+NJ_177,NJ,1,0,38.4,Burger King
+NJ_177,NJ,1,1,41.4,Burger King
+NJ_178,NJ,1,0,33.8,KFC
+NJ_178,NJ,1,1,38.4,KFC
+NJ_179,NJ,1,0,29.9,Wendy's
+NJ_179,NJ,1,1,36.0,Wendy's
+NJ_180,NJ,1,0,33.3,Wendy's
+NJ_180,NJ,1,1,39.4,Wendy's
+NJ_181,NJ,1,0,11.9,Roy Rogers
+NJ_181,NJ,1,1,20.7,Roy Rogers
+NJ_182,NJ,1,0,26.5,KFC
+NJ_182,NJ,1,1,22.3,KFC
+NJ_183,NJ,1,0,27.3,Burger King
+NJ_183,NJ,1,1,26.4,Burger King
+NJ_184,NJ,1,0,5.0,Burger King
+NJ_184,NJ,1,1,1.3,Burger King
+NJ_185,NJ,1,0,24.8,Wendy's
+NJ_185,NJ,1,1,21.9,Wendy's
+NJ_186,NJ,1,0,13.8,KFC
+NJ_186,NJ,1,1,18.1,KFC
+NJ_187,NJ,1,0,24.7,Wendy's
+NJ_187,NJ,1,1,25.2,Wendy's
+NJ_188,NJ,1,0,27.3,Wendy's
+NJ_188,NJ,1,1,31.6,Wendy's
+NJ_189,NJ,1,0,20.4,Wendy's
+NJ_189,NJ,1,1,19.8,Wendy's
+NJ_190,NJ,1,0,29.0,Roy Rogers
+NJ_190,NJ,1,1,34.2,Roy Rogers
+NJ_191,NJ,1,0,29.1,Roy Rogers
+NJ_191,NJ,1,1,30.4,Roy Rogers
+NJ_192,NJ,1,0,12.1,Burger King
+NJ_192,NJ,1,1,13.4,Burger King
+NJ_193,NJ,1,0,5.7,KFC
+NJ_193,NJ,1,1,8.8,KFC
+NJ_194,NJ,1,0,9.3,Burger King
+NJ_194,NJ,1,1,9.6,Burger King
+NJ_195,NJ,1,0,36.6,Roy Rogers
+NJ_195,NJ,1,1,34.0,Roy Rogers
+NJ_196,NJ,1,0,10.8,Wendy's
+NJ_196,NJ,1,1,6.2,Wendy's
+NJ_197,NJ,1,0,18.0,Wendy's
+NJ_197,NJ,1,1,24.3,Wendy's
+NJ_198,NJ,1,0,21.2,Roy Rogers
+NJ_198,NJ,1,1,21.2,Roy Rogers
+NJ_199,NJ,1,0,11.8,Burger King
+NJ_199,NJ,1,1,9.7,Burger King
+NJ_200,NJ,1,0,18.3,Roy Rogers
+NJ_200,NJ,1,1,18.1,Roy Rogers
+NJ_201,NJ,1,0,5.0,Wendy's
+NJ_201,NJ,1,1,1.8,Wendy's
+NJ_202,NJ,1,0,30.3,Burger King
+NJ_202,NJ,1,1,32.4,Burger King
+NJ_203,NJ,1,0,25.8,Wendy's
+NJ_203,NJ,1,1,27.3,Wendy's
+NJ_204,NJ,1,0,33.1,Wendy's
+NJ_204,NJ,1,1,35.4,Wendy's
+NJ_205,NJ,1,0,17.3,Wendy's
+NJ_205,NJ,1,1,16.7,Wendy's
+NJ_206,NJ,1,0,17.5,Wendy's
+NJ_206,NJ,1,1,23.4,Wendy's
+NJ_207,NJ,1,0,22.7,Burger King
+NJ_207,NJ,1,1,25.3,Burger King
+NJ_208,NJ,1,0,16.6,Wendy's
+NJ_208,NJ,1,1,22.1,Wendy's
+NJ_209,NJ,1,0,14.6,Roy Rogers
+NJ_209,NJ,1,1,12.1,Roy Rogers
+NJ_210,NJ,1,0,5.0,KFC
+NJ_210,NJ,1,1,9.8,KFC
+NJ_211,NJ,1,0,36.3,Wendy's
+NJ_211,NJ,1,1,34.9,Wendy's
+NJ_212,NJ,1,0,13.2,Burger King
+NJ_212,NJ,1,1,13.8,Burger King
+NJ_213,NJ,1,0,19.3,Roy Rogers
+NJ_213,NJ,1,1,20.5,Roy Rogers
+NJ_214,NJ,1,0,16.9,Wendy's
+NJ_214,NJ,1,1,16.7,Wendy's
+NJ_215,NJ,1,0,19.1,Roy Rogers
+NJ_215,NJ,1,1,23.2,Roy Rogers
+NJ_216,NJ,1,0,13.7,KFC
+NJ_216,NJ,1,1,15.9,KFC
+NJ_217,NJ,1,0,17.3,Wendy's
+NJ_217,NJ,1,1,11.1,Wendy's
+NJ_218,NJ,1,0,36.5,Wendy's
+NJ_218,NJ,1,1,43.1,Wendy's
+NJ_219,NJ,1,0,26.7,Roy Rogers
+NJ_219,NJ,1,1,30.4,Roy Rogers
+NJ_220,NJ,1,0,9.8,Wendy's
+NJ_220,NJ,1,1,15.9,Wendy's
+NJ_221,NJ,1,0,16.1,Roy Rogers
+NJ_221,NJ,1,1,16.4,Roy Rogers
+NJ_222,NJ,1,0,9.9,KFC
+NJ_222,NJ,1,1,9.6,KFC
+NJ_223,NJ,1,0,7.6,Burger King
+NJ_223,NJ,1,1,6.3,Burger King
+NJ_224,NJ,1,0,28.5,Roy Rogers
+NJ_224,NJ,1,1,29.1,Roy Rogers
+NJ_225,NJ,1,0,18.8,Burger King
+NJ_225,NJ,1,1,21.5,Burger King
+NJ_226,NJ,1,0,31.7,Roy Rogers
+NJ_226,NJ,1,1,31.9,Roy Rogers
+NJ_227,NJ,1,0,12.9,Wendy's
+NJ_227,NJ,1,1,11.2,Wendy's
+NJ_228,NJ,1,0,29.8,KFC
+NJ_228,NJ,1,1,33.1,KFC
+NJ_229,NJ,1,0,20.6,Burger King
+NJ_229,NJ,1,1,20.5,Burger King
+NJ_230,NJ,1,0,20.0,Roy Rogers
+NJ_230,NJ,1,1,21.8,Roy Rogers
+NJ_231,NJ,1,0,29.0,Wendy's
+NJ_231,NJ,1,1,24.9,Wendy's
+NJ_232,NJ,1,0,22.8,Burger King
+NJ_232,NJ,1,1,19.7,Burger King
+NJ_233,NJ,1,0,22.5,Roy Rogers
+NJ_233,NJ,1,1,20.3,Roy Rogers
+NJ_234,NJ,1,0,26.1,Wendy's
+NJ_234,NJ,1,1,26.2,Wendy's
+NJ_235,NJ,1,0,5.0,KFC
+NJ_235,NJ,1,1,2.8,KFC
+NJ_236,NJ,1,0,25.6,Burger King
+NJ_236,NJ,1,1,26.0,Burger King
+NJ_237,NJ,1,0,15.9,Burger King
+NJ_237,NJ,1,1,14.1,Burger King
+NJ_238,NJ,1,0,10.7,Roy Rogers
+NJ_238,NJ,1,1,18.3,Roy Rogers
+NJ_239,NJ,1,0,15.4,Roy Rogers
+NJ_239,NJ,1,1,18.4,Roy Rogers
+NJ_240,NJ,1,0,13.8,KFC
+NJ_240,NJ,1,1,13.5,KFC
+NJ_241,NJ,1,0,33.8,Roy Rogers
+NJ_241,NJ,1,1,38.4,Roy Rogers
+NJ_242,NJ,1,0,13.1,Roy Rogers
+NJ_242,NJ,1,1,14.9,Roy Rogers
+NJ_243,NJ,1,0,24.9,Wendy's
+NJ_243,NJ,1,1,25.2,Wendy's
+NJ_244,NJ,1,0,25.2,Wendy's
+NJ_244,NJ,1,1,22.4,Wendy's
+NJ_245,NJ,1,0,16.9,Burger King
+NJ_245,NJ,1,1,17.7,Burger King
+NJ_246,NJ,1,0,14.7,Wendy's
+NJ_246,NJ,1,1,14.7,Wendy's
+NJ_247,NJ,1,0,20.1,Wendy's
+NJ_247,NJ,1,1,25.8,Wendy's
+NJ_248,NJ,1,0,13.1,Wendy's
+NJ_248,NJ,1,1,8.3,Wendy's
+NJ_249,NJ,1,0,13.8,Roy Rogers
+NJ_249,NJ,1,1,13.8,Roy Rogers
+NJ_250,NJ,1,0,29.1,Roy Rogers
+NJ_250,NJ,1,1,27.0,Roy Rogers
+NJ_251,NJ,1,0,35.2,Burger King
+NJ_251,NJ,1,1,34.3,Burger King
+NJ_252,NJ,1,0,20.5,Roy Rogers
+NJ_252,NJ,1,1,18.1,Roy Rogers
+NJ_253,NJ,1,0,8.9,Burger King
+NJ_253,NJ,1,1,9.2,Burger King
+NJ_254,NJ,1,0,30.6,Burger King
+NJ_254,NJ,1,1,26.3,Burger King
+NJ_255,NJ,1,0,24.7,KFC
+NJ_255,NJ,1,1,24.4,KFC
+NJ_256,NJ,1,0,29.5,Roy Rogers
+NJ_256,NJ,1,1,33.1,Roy Rogers
+NJ_257,NJ,1,0,17.0,Roy Rogers
+NJ_257,NJ,1,1,18.1,Roy Rogers
+NJ_258,NJ,1,0,29.1,Burger King
+NJ_258,NJ,1,1,30.5,Burger King
+NJ_259,NJ,1,0,17.9,Burger King
+NJ_259,NJ,1,1,21.2,Burger King
+NJ_260,NJ,1,0,12.9,KFC
+NJ_260,NJ,1,1,15.9,KFC
+NJ_261,NJ,1,0,10.5,Roy Rogers
+NJ_261,NJ,1,1,7.8,Roy Rogers
+NJ_262,NJ,1,0,20.2,KFC
+NJ_262,NJ,1,1,23.0,KFC
+NJ_263,NJ,1,0,36.8,Roy Rogers
+NJ_263,NJ,1,1,35.9,Roy Rogers
+NJ_264,NJ,1,0,26.7,Wendy's
+NJ_264,NJ,1,1,30.9,Wendy's
+NJ_265,NJ,1,0,13.9,Burger King
+NJ_265,NJ,1,1,17.0,Burger King
+NJ_266,NJ,1,0,18.4,Roy Rogers
+NJ_266,NJ,1,1,17.1,Roy Rogers
+NJ_267,NJ,1,0,34.0,KFC
+NJ_267,NJ,1,1,29.6,KFC
+NJ_268,NJ,1,0,24.5,Roy Rogers
+NJ_268,NJ,1,1,27.4,Roy Rogers
+NJ_269,NJ,1,0,24.4,Wendy's
+NJ_269,NJ,1,1,25.3,Wendy's
+NJ_270,NJ,1,0,18.8,Roy Rogers
+NJ_270,NJ,1,1,22.8,Roy Rogers
+NJ_271,NJ,1,0,13.3,KFC
+NJ_271,NJ,1,1,13.9,KFC
+NJ_272,NJ,1,0,39.8,Wendy's
+NJ_272,NJ,1,1,38.8,Wendy's
+NJ_273,NJ,1,0,15.7,KFC
+NJ_273,NJ,1,1,12.6,KFC
+NJ_274,NJ,1,0,32.3,Burger King
+NJ_274,NJ,1,1,30.2,Burger King
+NJ_275,NJ,1,0,19.9,Wendy's
+NJ_275,NJ,1,1,25.1,Wendy's
+NJ_276,NJ,1,0,8.0,KFC
+NJ_276,NJ,1,1,8.0,KFC
+NJ_277,NJ,1,0,24.4,Wendy's
+NJ_277,NJ,1,1,27.7,Wendy's
+NJ_278,NJ,1,0,35.3,Wendy's
+NJ_278,NJ,1,1,32.4,Wendy's
+NJ_279,NJ,1,0,18.0,Wendy's
+NJ_279,NJ,1,1,13.6,Wendy's
+NJ_280,NJ,1,0,16.4,Burger King
+NJ_280,NJ,1,1,18.1,Burger King
+NJ_281,NJ,1,0,21.0,Roy Rogers
+NJ_281,NJ,1,1,24.5,Roy Rogers
+NJ_282,NJ,1,0,10.0,KFC
+NJ_282,NJ,1,1,19.7,KFC
+NJ_283,NJ,1,0,15.5,Roy Rogers
+NJ_283,NJ,1,1,10.1,Roy Rogers
+NJ_284,NJ,1,0,32.6,KFC
+NJ_284,NJ,1,1,29.9,KFC
+NJ_285,NJ,1,0,17.7,Roy Rogers
+NJ_285,NJ,1,1,21.6,Roy Rogers
+NJ_286,NJ,1,0,8.8,Wendy's
+NJ_286,NJ,1,1,5.6,Wendy's
+NJ_287,NJ,1,0,17.7,Wendy's
+NJ_287,NJ,1,1,19.6,Wendy's
+NJ_288,NJ,1,0,19.4,KFC
+NJ_288,NJ,1,1,20.6,KFC
+NJ_289,NJ,1,0,19.9,Roy Rogers
+NJ_289,NJ,1,1,24.5,Roy Rogers
+NJ_290,NJ,1,0,33.5,Wendy's
+NJ_290,NJ,1,1,38.4,Wendy's
+NJ_291,NJ,1,0,40.8,Wendy's
+NJ_291,NJ,1,1,42.6,Wendy's
+NJ_292,NJ,1,0,22.4,Burger King
+NJ_292,NJ,1,1,27.4,Burger King
+NJ_293,NJ,1,0,31.3,Roy Rogers
+NJ_293,NJ,1,1,33.5,Roy Rogers
+NJ_294,NJ,1,0,22.1,Wendy's
+NJ_294,NJ,1,1,20.5,Wendy's
+NJ_295,NJ,1,0,5.7,Burger King
+NJ_295,NJ,1,1,1.7,Burger King
+NJ_296,NJ,1,0,5.0,KFC
+NJ_296,NJ,1,1,2.9,KFC
+NJ_297,NJ,1,0,16.6,Roy Rogers
+NJ_297,NJ,1,1,14.4,Roy Rogers
+NJ_298,NJ,1,0,11.4,Roy Rogers
+NJ_298,NJ,1,1,21.0,Roy Rogers
+NJ_299,NJ,1,0,12.1,Roy Rogers
+NJ_299,NJ,1,1,14.4,Roy Rogers
+NJ_300,NJ,1,0,6.3,KFC
+NJ_300,NJ,1,1,4.3,KFC
+NJ_301,NJ,1,0,35.8,Wendy's
+NJ_301,NJ,1,1,36.0,Wendy's
+NJ_302,NJ,1,0,35.2,Burger King
+NJ_302,NJ,1,1,28.8,Burger King
+NJ_303,NJ,1,0,24.1,Roy Rogers
+NJ_303,NJ,1,1,22.9,Roy Rogers
+NJ_304,NJ,1,0,13.1,Burger King
+NJ_304,NJ,1,1,7.5,Burger King
+NJ_305,NJ,1,0,25.8,Roy Rogers
+NJ_305,NJ,1,1,25.9,Roy Rogers
+NJ_306,NJ,1,0,22.8,Burger King
+NJ_306,NJ,1,1,17.5,Burger King
+NJ_307,NJ,1,0,26.2,KFC
+NJ_307,NJ,1,1,24.9,KFC
+NJ_308,NJ,1,0,17.0,Burger King
+NJ_308,NJ,1,1,14.8,Burger King
+NJ_309,NJ,1,0,7.7,KFC
+NJ_309,NJ,1,1,6.2,KFC
+NJ_310,NJ,1,0,17.8,Roy Rogers
+NJ_310,NJ,1,1,14.1,Roy Rogers
+NJ_311,NJ,1,0,18.7,Wendy's
+NJ_311,NJ,1,1,19.1,Wendy's
+NJ_312,NJ,1,0,21.0,Roy Rogers
+NJ_312,NJ,1,1,26.0,Roy Rogers
+NJ_313,NJ,1,0,11.5,Wendy's
+NJ_313,NJ,1,1,18.0,Wendy's
+NJ_314,NJ,1,0,17.9,Roy Rogers
+NJ_314,NJ,1,1,12.0,Roy Rogers
+NJ_315,NJ,1,0,25.4,Roy Rogers
+NJ_315,NJ,1,1,23.5,Roy Rogers
+NJ_316,NJ,1,0,20.1,Roy Rogers
+NJ_316,NJ,1,1,24.0,Roy Rogers
+NJ_317,NJ,1,0,26.7,Burger King
+NJ_317,NJ,1,1,25.1,Burger King
+NJ_318,NJ,1,0,7.4,Roy Rogers
+NJ_318,NJ,1,1,10.6,Roy Rogers
+NJ_319,NJ,1,0,29.0,Wendy's
+NJ_319,NJ,1,1,30.4,Wendy's
+NJ_320,NJ,1,0,12.1,KFC
+NJ_320,NJ,1,1,13.6,KFC
+PA_001,PA,0,0,26.9,Wendy's
+PA_001,PA,0,1,18.6,Wendy's
+PA_002,PA,0,0,24.3,KFC
+PA_002,PA,0,1,26.1,KFC
+PA_003,PA,0,0,12.6,KFC
+PA_003,PA,0,1,14.9,KFC
+PA_004,PA,0,0,13.5,KFC
+PA_004,PA,0,1,10.2,KFC
+PA_005,PA,0,0,18.5,Burger King
+PA_005,PA,0,1,17.2,Burger King
+PA_006,PA,0,0,27.2,Wendy's
+PA_006,PA,0,1,24.2,Wendy's
+PA_007,PA,0,0,31.2,Burger King
+PA_007,PA,0,1,29.2,Burger King
+PA_008,PA,0,0,29.9,KFC
+PA_008,PA,0,1,31.1,KFC
+PA_009,PA,0,0,27.1,Roy Rogers
+PA_009,PA,0,1,22.3,Roy Rogers
+PA_010,PA,0,0,30.4,Burger King
+PA_010,PA,0,1,30.6,Burger King
+PA_011,PA,0,0,19.1,Roy Rogers
+PA_011,PA,0,1,19.6,Roy Rogers
+PA_012,PA,0,0,14.7,Wendy's
+PA_012,PA,0,1,16.1,Wendy's
+PA_013,PA,0,0,24.6,Burger King
+PA_013,PA,0,1,22.6,Burger King
+PA_014,PA,0,0,40.5,Roy Rogers
+PA_014,PA,0,1,34.8,Roy Rogers
+PA_015,PA,0,0,21.8,Roy Rogers
+PA_015,PA,0,1,18.7,Roy Rogers
+PA_016,PA,0,0,24.5,Wendy's
+PA_016,PA,0,1,23.0,Wendy's
+PA_017,PA,0,0,27.2,Roy Rogers
+PA_017,PA,0,1,29.0,Roy Rogers
+PA_018,PA,0,0,22.5,Roy Rogers
+PA_018,PA,0,1,22.5,Roy Rogers
+PA_019,PA,0,0,32.4,KFC
+PA_019,PA,0,1,26.1,KFC
+PA_020,PA,0,0,17.2,Roy Rogers
+PA_020,PA,0,1,9.7,Roy Rogers
+PA_021,PA,0,0,45.0,KFC
+PA_021,PA,0,1,40.0,KFC
+PA_022,PA,0,0,20.1,KFC
+PA_022,PA,0,1,15.9,KFC
+PA_023,PA,0,0,35.5,KFC
+PA_023,PA,0,1,30.3,KFC
+PA_024,PA,0,0,40.4,Roy Rogers
+PA_024,PA,0,1,28.1,Roy Rogers
+PA_025,PA,0,0,11.1,KFC
+PA_025,PA,0,1,5.9,KFC
+PA_026,PA,0,0,22.6,Burger King
+PA_026,PA,0,1,20.9,Burger King
+PA_027,PA,0,0,31.9,KFC
+PA_027,PA,0,1,34.1,KFC
+PA_028,PA,0,0,29.8,KFC
+PA_028,PA,0,1,32.3,KFC
+PA_029,PA,0,0,20.9,KFC
+PA_029,PA,0,1,22.1,KFC
+PA_030,PA,0,0,26.8,KFC
+PA_030,PA,0,1,25.4,KFC
+PA_031,PA,0,0,8.6,KFC
+PA_031,PA,0,1,13.0,KFC
+PA_032,PA,0,0,25.9,KFC
+PA_032,PA,0,1,23.1,KFC
+PA_033,PA,0,0,24.7,Wendy's
+PA_033,PA,0,1,24.6,Wendy's
+PA_034,PA,0,0,22.8,Wendy's
+PA_034,PA,0,1,20.0,Wendy's
+PA_035,PA,0,0,18.4,Burger King
+PA_035,PA,0,1,16.2,Burger King
+PA_036,PA,0,0,23.0,Wendy's
+PA_036,PA,0,1,23.6,Wendy's
+PA_037,PA,0,0,14.1,Wendy's
+PA_037,PA,0,1,8.9,Wendy's
+PA_038,PA,0,0,28.7,Wendy's
+PA_038,PA,0,1,29.3,Wendy's
+PA_039,PA,0,0,26.8,Wendy's
+PA_039,PA,0,1,22.3,Wendy's
+PA_040,PA,0,0,22.9,Wendy's
+PA_040,PA,0,1,21.6,Wendy's
+PA_041,PA,0,0,14.5,Burger King
+PA_041,PA,0,1,13.9,Burger King
+PA_042,PA,0,0,32.2,Wendy's
+PA_042,PA,0,1,32.5,Wendy's
+PA_043,PA,0,0,13.2,Burger King
+PA_043,PA,0,1,10.6,Burger King
+PA_044,PA,0,0,14.4,Burger King
+PA_044,PA,0,1,7.6,Burger King
+PA_045,PA,0,0,51.0,Roy Rogers
+PA_045,PA,0,1,53.3,Roy Rogers
+PA_046,PA,0,0,24.9,Burger King
+PA_046,PA,0,1,23.4,Burger King
+PA_047,PA,0,0,10.9,Burger King
+PA_047,PA,0,1,4.5,Burger King
+PA_048,PA,0,0,26.7,Wendy's
+PA_048,PA,0,1,34.1,Wendy's
+PA_049,PA,0,0,23.8,Burger King
+PA_049,PA,0,1,24.9,Burger King
+PA_050,PA,0,0,17.4,KFC
+PA_050,PA,0,1,20.1,KFC
+PA_051,PA,0,0,27.6,Burger King
+PA_051,PA,0,1,24.9,Burger King
+PA_052,PA,0,0,24.3,Burger King
+PA_052,PA,0,1,28.0,Burger King
+PA_053,PA,0,0,12.7,Wendy's
+PA_053,PA,0,1,6.5,Wendy's
+PA_054,PA,0,0,24.6,Roy Rogers
+PA_054,PA,0,1,23.4,Roy Rogers
+PA_055,PA,0,0,20.8,Burger King
+PA_055,PA,0,1,20.4,Burger King
+PA_056,PA,0,0,22.2,KFC
+PA_056,PA,0,1,16.8,KFC
+PA_057,PA,0,0,23.2,Roy Rogers
+PA_057,PA,0,1,19.5,Roy Rogers
+PA_058,PA,0,0,20.2,Roy Rogers
+PA_058,PA,0,1,17.9,Roy Rogers
+PA_059,PA,0,0,26.7,KFC
+PA_059,PA,0,1,19.1,KFC
+PA_060,PA,0,0,24.5,KFC
+PA_060,PA,0,1,23.7,KFC
+PA_061,PA,0,0,13.4,Roy Rogers
+PA_061,PA,0,1,9.5,Roy Rogers
+PA_062,PA,0,0,27.4,Wendy's
+PA_062,PA,0,1,25.1,Wendy's
+PA_063,PA,0,0,28.7,KFC
+PA_063,PA,0,1,29.7,KFC
+PA_064,PA,0,0,5.0,Burger King
+PA_064,PA,0,1,5.3,Burger King
+PA_065,PA,0,0,5.0,Wendy's
+PA_065,PA,0,1,-0.1,Wendy's
+PA_066,PA,0,0,23.0,KFC
+PA_066,PA,0,1,19.7,KFC
+PA_067,PA,0,0,20.9,Roy Rogers
+PA_067,PA,0,1,17.2,Roy Rogers
+PA_068,PA,0,0,29.1,KFC
+PA_068,PA,0,1,24.9,KFC
+PA_069,PA,0,0,16.7,Wendy's
+PA_069,PA,0,1,13.3,Wendy's
+PA_070,PA,0,0,25.1,Burger King
+PA_070,PA,0,1,21.5,Burger King
+PA_071,PA,0,0,29.2,Roy Rogers
+PA_071,PA,0,1,24.5,Roy Rogers
+PA_072,PA,0,0,27.5,Wendy's
+PA_072,PA,0,1,20.5,Wendy's
+PA_073,PA,0,0,16.2,Wendy's
+PA_073,PA,0,1,14.8,Wendy's
+PA_074,PA,0,0,22.7,KFC
+PA_074,PA,0,1,18.5,KFC
+PA_075,PA,0,0,17.8,KFC
+PA_075,PA,0,1,12.6,KFC
+PA_076,PA,0,0,24.3,Wendy's
+PA_076,PA,0,1,19.3,Wendy's
+PA_077,PA,0,0,26.3,Burger King
+PA_077,PA,0,1,24.4,Burger King
+PA_078,PA,0,0,34.4,KFC
+PA_078,PA,0,1,27.5,KFC
+PA_079,PA,0,0,20.6,Roy Rogers
+PA_079,PA,0,1,24.5,Roy Rogers
+PA_080,PA,0,0,31.6,Wendy's
+PA_080,PA,0,1,31.3,Wendy's

@@ -1,0 +1,13 @@
+{
+  "name": "capstone-experimentation-frontend",
+  "version": "1.0.0",
+  "description": "Interactive React dashboard for experimentation, sequential testing, Bayesian A/B, and causal inference",
+  "author": "Internship Developer",
+  "scripts": {
+    "start": "python -m uvicorn app.main:app --reload --port 8000"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
